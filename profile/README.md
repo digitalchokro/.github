@@ -1,49 +1,40 @@
-# Digital Chokro
-**Premium IT Agency | Enterprise Web & Mobile Solutions | AI Integrations**
+<div align="center">
+  <img src="https://digitalchokro.com/assets/images/logo.png" alt="Digital Chokro" width="250"/>
+  <h1>Where ideas get wild.</h1>
+  <p><b>We build practical developer tools, open-source modules, and clean software solutions.</b></p>
+</div>
 
-We are a forward-thinking IT agency specializing in engineering robust digital products, custom internal tooling, and scalable full-stack applications for businesses worldwide. We bridge the gap between creative marketing strategy and cutting-edge software engineering.
+---
+
+### 🚀 Who We Are
+**Digital Chokro** is a software engineering agency based in Bangladesh. While our core enterprise products remain closed-source, this organization is our commitment to the developer community. We actively build, maintain, and share specialized tooling, lightweight UI libraries, and system modules that our own engineers use daily.
+
+Our goal is to help developers write better software, faster.
+
+### 🛠 Core Engineering Stack
+- **Web Applications:** Laravel 11, React, Vue 3, Inertia.js, TailwindCSS
+- **Mobile Development:** Flutter, Riverpod, Offline-First SQLite Architectures
+- **AI Integration:** Google Gemini API, Local LLMs (Ollama), RAG systems
+- **Infrastructure:** Multi-tenant SaaS architectures, Docker, PostgreSQL, Supabase
 
 ---
 
-## What We Build
+### 🌟 Open Source Initiatives
+We are actively preparing our first wave of public open-source releases, focusing on:
+1. **Laravel/Filament Utilities:** Premium themes and agency-grade plugins.
+2. **Flutter UI Toolkits:** Enterprise-ready dashboards, skeleton loaders, and POS layouts.
+3. **Local AI Ecosystem:** React hooks and utilities for seamless Ollama RAG integration.
 
-At Digital Chokro, we develop tailored software solutions designed for high performance and reliability. 
-
-- **Enterprise SaaS Applications:** End-to-end architectures utilizing Laravel and React.
-- **Cross-Platform Mobile Apps:** High-fidelity applications built with Flutter.
-- **Local AI & Automation:** Integrating privacy-first local language models (Ollama) into agency workflows and client products.
-- **Business Management Tools:** Custom Inventory, CRM, and HR systems (e.g., Ishan CRM, Insaf Inventory).
-
-## Our Technology Ecosystem
-
-```mermaid
-graph TD
-    subgraph Frontend
-        R[React.js / Vite]
-        F[Flutter / Dart]
-    end
-    
-    subgraph Backend
-        L[Laravel / PHP]
-        N[Node.js / Express]
-    end
-    
-    subgraph Infrastructure & DB
-        S[SQLite / PostgreSQL]
-        D[Docker & Nginx]
-        AI[Local LLMs / sqlite-vec]
-    end
-    
-    R --> L
-    R --> N
-    F --> L
-    N --> AI
-    L --> S
-    N --> S
-```
-
-## Open Source Commitment
-While our core client work remains proprietary, Digital Chokro is committed to giving back to the developer community. We actively develop and release foundational tooling, framework boilerplates, and UI components to help other agencies build better software faster.
+*Check back soon for our first major release!*
 
 ---
-**Contact & Business Inquiries:** [Visit our Website](https://digitalchokro.com)
+
+### 🌐 Connect With Us
+- 🏢 **Website:** [digitalchokro.com](https://digitalchokro.com)
+- 📧 **Contact:** hello@digitalchokro.com
+- 💻 **Lead Engineer:** [Nur Mohammad (imnurmohammad-me)](https://github.com/imnurmohammad-me)
+
+<br/>
+<div align="center">
+  <i>Built with ❤️ by the engineering team at Digital Chokro.</i>
+</div>
