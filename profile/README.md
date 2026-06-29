@@ -31,8 +31,11 @@ We are actively preparing our first wave of public open-source releases, focusin
 
 ### 🌐 Connect With Us
 - 🏢 **Website:** [digitalchokro.com](https://digitalchokro.com)
+- 💼 **LinkedIn:** [linkedin.com/company/digitalchokro](https://www.linkedin.com/company/digitalchokro)
+- 📘 **Facebook:** [facebook.com/digitalchokro](https://facebook.com/digitalchokro)
+- 🐦 **X (Twitter):** [@digitalchokro](https://x.com/digitalchokro)
 - 📧 **Contact:** hello@digitalchokro.com
-- 💻 **Lead Engineer:** [Nur Mohammad (imnurmohammad-me)](https://github.com/imnurmohammad-me)
+- 💻 **Lead Engineer:** [Nur Mohammad](https://github.com/imnurmohammad-me)
 
 <br/>
 <div align="center">
